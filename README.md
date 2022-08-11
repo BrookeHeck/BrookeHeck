@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **BrookeHeck/BrookeHeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![profile banner](./img/gitProfileBanner.png)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/brookeheck/" target="_blank" rel="noopener noreferrer"><img height="38" src="./img/icons8-linkedin-circled.gif"></a>&nbsp;&nbsp;
+
+</p>
+
+### Stats
+
+### 🌠 Professional Competencies
+- One
+  - ...
+- Two
+  - ...
+- Three
+  - ...
+
+### Other About Me
