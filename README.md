@@ -39,18 +39,22 @@ Here are some ideas to get you started:
   - Identifies key points and can summarize them into clear language
   - Pays attention to what others have to say and uses nonverbal cues to show acknowledgment
 
-### 🐍 My Developer Identity
-### 🌟 Professional Competencies
-### 💎 Non-Traditional Background
+### 🌟 Why I Want to Work in Tech
+- I want a career that challenges me and always provides new opportunities to try something new.
+- I've never thought of myself as creative because I was always bad at all the traditional arts, but coding allows me to be creative through problem solving.
 ### 🛠️ Technologies and Tools
-### 🌈 Why I Want to Work in Tech
-### 👭 My Favorite Organizations
+- React, Node.js, Chart.js, Bootstrap
 ### 💡 What I'm Learning
-### 🎟️ Events I'm Attending
-### 📻 My Favorite Coding Playlists
-### 👽 Fun Facts
+- React, Node.js
+### 🛩️ Non-Traditional Background
+- Worked Air Transportation for US Air Force
+- Stationed at Ramstein and Offutt
+### 🧀 Fun Facts
+- Love biking, hiking, and any outdoor activity
+- Wisconsin native, yes I'm a cheesehead!
 ### 📚 Resources Used to Build This Repo
+ - [How to Build a GitHub Profile](https://github.com/HexxKing/HexxKing/blob/main/how-to.md)
  - Banner from [Canva](https://www.canva.com)
  - LinkedIn Icon from [Icons8](https://icons8.com/)
  - [Stats Banners](https://github.com/anuraghazra/github-readme-stats)
- - [How to Build a GitHub Profile](https://github.com/HexxKing/HexxKing/blob/main/how-to.md)
+
