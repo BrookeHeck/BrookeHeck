@@ -39,4 +39,18 @@ Here are some ideas to get you started:
   - Identifies key points and can summarize them into clear language
   - Pays attention to what others have to say and uses nonverbal cues to show acknowledgment
 
-### About Me
+### 🐍 My Developer Identity
+### 🌟 Professional Competencies
+### 💎 Non-Traditional Background
+### 🛠️ Technologies and Tools
+### 🌈 Why I Want to Work in Tech
+### 👭 My Favorite Organizations
+### 💡 What I'm Learning
+### 🎟️ Events I'm Attending
+### 📻 My Favorite Coding Playlists
+### 👽 Fun Facts
+### 📚 Resources Used to Build This Repo
+ - Banner from [Canva](https://www.canva.com)
+ - LinkedIn Icon from [Icons8](https://icons8.com/)
+ - [Stats Banners](https://github.com/anuraghazra/github-readme-stats)
+ - [How to Build a GitHub Profile](https://github.com/HexxKing/HexxKing/blob/main/how-to.md)
