@@ -20,14 +20,23 @@ Here are some ideas to get you started:
 
 </p>
 
-### Stats
+[![Brooke's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrookeHeck&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrookeHeck&theme=midnight-purple&card_width=800&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ### 🌠 Professional Competencies
-- One
-  - ...
-- Two
-  - ...
-- Three
-  - ...
+- Leadership
+  - Holding myself accountable by taking ownership of my actions and words
+  - Always striving to challenge myself and dive deeper into any topic I'm interested in
+  - Having an attitude and work ethic that shows a positive example for others
+-  Results & Quality
+    - Always willing to analyze a problem to it's root cause and research solutions
+    - Uses prioritization and organizational skills to complete quality work in a timely manner
+    - Practices personal accountability to get work done without supervision but seeks mentorship when necessary
+- Communication
+  - Identifies key points and can summarize them into clear language
+  - Pays attention to what others have to say and uses nonverbal cues to show acknowledgment
 
-### Other About Me
+### About Me
