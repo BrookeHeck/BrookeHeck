@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ![profile banner](./img/gitProfileBanner.png)
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/brookeheck/" target="_blank" rel="noopener noreferrer"><img height="38" src="./img/icons8-linkedin-circled.gif"></a>&nbsp;&nbsp;
+  <a target="_blank"  href="https://www.linkedin.com/in/brookeheck/" rel="noopener noreferrer"><img height="38" src="./img/icons8-linkedin-circled.gif"></a>&nbsp;&nbsp;
 
 </p>
 
@@ -50,8 +50,8 @@ Here are some ideas to get you started:
 - Worked Air Transportation for US Air Force
 - Stationed at Ramstein and Offutt
 ### 🧀 Fun Facts
-- Love biking, hiking, and any outdoor activity
-- Wisconsin native, yes I'm a cheesehead!
+- I love biking, hiking, and any outdoor activity
+- I'm a Wisconsin native, yes I'm a cheesehead!
 ### 📚 Resources Used to Build This Repo
  - [How to Build a GitHub Profile](https://github.com/HexxKing/HexxKing/blob/main/how-to.md)
  - Banner from [Canva](https://www.canva.com)
