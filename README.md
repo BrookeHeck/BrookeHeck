@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ![profile banner](./img/gitProfileBanner.png)
 
 <p align="center">
-  <a target="_blank"  href="https://www.linkedin.com/in/brookeheck/" rel="noopener noreferrer"><img height="38" src="./img/icons8-linkedin-circled.gif"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/brookeheck/" rel="noopener noreferrer"><img target="_blank" height="38" src="./img/icons8-linkedin-circled.gif"></a>&nbsp;&nbsp;
 
 </p>
 
