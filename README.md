@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ![profile banner](./img/gitProfileBanner.png)
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/brookeheck/" rel="noopener noreferrer"><img target="_blank" height="38" src="./img/icons8-linkedin-circled.gif"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/brookeheck/" target="_blank" rel="noopener noreferrer"><img height="38" src="./img/icons8-linkedin-circled.gif"></a>&nbsp;&nbsp;
 
 </p>
 
@@ -43,9 +43,9 @@ Here are some ideas to get you started:
 - I want a career that challenges me and always provides new opportunities to try something new.
 - I've never thought of myself as creative because I was always bad at all the traditional arts, but coding allows me to be creative through problem solving.
 ### 🛠️ Technologies and Tools
-- React, Node.js, Chart.js, Bootstrap
+- React, Node.js, Chart.js, Bootstrap, React Bootstrap, Express, MongoDB, Mongoose, Axios
 ### 💡 What I'm Learning
-- React, Node.js
+- Express, Mongoose
 ### 🛩️ Non-Traditional Background
 - Worked Air Transportation for US Air Force
 - Stationed at Ramstein and Offutt
