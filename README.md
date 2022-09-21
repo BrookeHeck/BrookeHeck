@@ -1,7 +1,4 @@
 <!--
-**BrookeHeck/BrookeHeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -43,15 +40,18 @@ Here are some ideas to get you started:
 - I want a career that challenges me and always provides new opportunities to try something new.
 - I've never thought of myself as creative because I was always bad at all the traditional arts, but coding allows me to be creative through problem solving.
 ### 🛠️ Technologies and Tools
-- React, Node.js, Chart.js, Bootstrap, React Bootstrap, Express, MongoDB, Mongoose, Axios, OAuth
-### 💡 What I'm Learning
-- Express, Mongoose, OAuth
+- GitHub, React, Node.js, Chart.js, Bootstrap, React Bootstrap, Express, MongoDB, Mongoose, Axios, Auth0, SQL, PostgreSQL, Jest
+### 🌱 What I'm Learning
+- Express, SQL
 ### 🛩️ Non-Traditional Background
 - Worked Air Transportation for US Air Force
-- Stationed at Ramstein and Offutt
+- Was stationed at Ramstein and Offutt
 ### 🧀 Fun Facts
 - I love biking, hiking, and any outdoor activity
 - I'm a Wisconsin native, yes I'm a cheesehead!
+
+</br>
+
 ### 📚 Resources Used to Build This Repo
  - [How to Build a GitHub Profile](https://github.com/HexxKing/HexxKing/blob/main/how-to.md)
  - Banner from [Canva](https://www.canva.com)
