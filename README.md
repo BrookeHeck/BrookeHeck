@@ -39,10 +39,16 @@
 ### 🌟 Why I Want to Work in Tech
 - I want a career that challenges me and always provides new opportunities to try something new.
 - I've never thought of myself as creative because I was always bad at all the traditional arts, but coding allows me to be creative through problem solving.
+
+### ⌨️ Languages
+- JavaScript, Java, SQL, HTML5, CSS3
+
 ### 🛠️ Technologies and Tools
-- GitHub, React, Node.js, Chart.js, Bootstrap, React Bootstrap, Express, MongoDB, Mongoose, Axios, Auth0, SQL, PostgreSQL, Jest
+- Node.js, React, GitHub, VS Code, Heroku, PostgreSQL, MongoDB, Netlify, WebSockets, Socket.io, AWS EC2, AWS S3, AWS DynamoDB, AWS SNS and SQS, AWS API Gateway, Auth0 
+
 ### 🌱 What I'm Learning
-- Express, SQL
+- WebSockets, AWS
+
 ### 🛩️ Non-Traditional Background
 - Worked Air Transportation for US Air Force
 - Was stationed at Ramstein and Offutt
